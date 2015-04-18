@@ -1,4 +1,5 @@
 <?php
+    $x = 1;
 	switch ($x) {
 		case 1:
 			echo "Number 1";
